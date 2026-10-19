@@ -11,11 +11,11 @@
 
   <h3 style="color: #007acc; font-family: Arial, sans-serif;">🚀 About Me</h3>
   <p style="font-family: sans-serif;">
-    I am a passionate tech student actively participating in <b>Hacktoberfest 2026</b>!
+    I am a passionate tech student!
   </p>
 
   <h3 style="color: #007acc; font-family: Arial, sans-serif;">🛠️ Tech Stack</h3>
   <p style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-family: monospace; display: inline-block;">
-    🖥️ HTML | 🎨 CSS | 🐍 Python
+    🖥️ HTML | 🎨 CSS | JavaScript | 🐍 Python
   </p>
 </div>
